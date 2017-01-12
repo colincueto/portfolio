@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Jan Colin Cueto - The Colinary Arts - Online Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "sass": "sass --watch css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colincueto/portfolio.git"
+  },
+  "author": "Jan Colin Cueto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colincueto/portfolio/issues"
+  },
+  "homepage": "https://github.com/colincueto/portfolio#readme"
+}
